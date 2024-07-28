@@ -1,0 +1,1265 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\Image\\Bgfcl.jpg.jpg",
+      "PackagePath": "staticwebassets\\Image\\Bgfcl.jpg.jpg"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\banks\\banks.css",
+      "PackagePath": "staticwebassets\\css\\banks\\banks.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\banks\\branches.css",
+      "PackagePath": "staticwebassets\\css\\banks\\branches.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\banks\\tags.css",
+      "PackagePath": "staticwebassets\\css\\banks\\tags.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\categories\\create_category.css",
+      "PackagePath": "staticwebassets\\css\\categories\\create_category.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\categories\\edit_category.css",
+      "PackagePath": "staticwebassets\\css\\categories\\edit_category.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\categories\\index.css",
+      "PackagePath": "staticwebassets\\css\\categories\\index.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\dashboard\\index.css",
+      "PackagePath": "staticwebassets\\css\\dashboard\\index.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\datatables.min.css",
+      "PackagePath": "staticwebassets\\css\\datatables.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\departments\\index.css",
+      "PackagePath": "staticwebassets\\css\\departments\\index.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\designations\\index.css",
+      "PackagePath": "staticwebassets\\css\\designations\\index.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\employees\\index.css",
+      "PackagePath": "staticwebassets\\css\\employees\\index.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\css\\fullcalendar.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\grades\\index.css",
+      "PackagePath": "staticwebassets\\css\\grades\\index.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\line-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\line-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\location\\index.css",
+      "PackagePath": "staticwebassets\\css\\location\\index.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\salarysettings\\basicsalarysettingsofficer.css",
+      "PackagePath": "staticwebassets\\css\\salarysettings\\basicsalarysettingsofficer.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\salarysettings\\salarypolicysettings.css",
+      "PackagePath": "staticwebassets\\css\\salarysettings\\salarypolicysettings.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\css\\select2.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\css\\toastr.min.css",
+      "PackagePath": "staticwebassets\\css\\toastr.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\CircularStd-Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\CircularStd-Black.woff"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\CircularStd-BlackItalic.woff",
+      "PackagePath": "staticwebassets\\fonts\\CircularStd-BlackItalic.woff"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\CircularStd-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\CircularStd-Bold.woff"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\CircularStd-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\fonts\\CircularStd-BoldItalic.woff"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\CircularStd-Book.woff",
+      "PackagePath": "staticwebassets\\fonts\\CircularStd-Book.woff"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\CircularStd-BookItalic.woff",
+      "PackagePath": "staticwebassets\\fonts\\CircularStd-BookItalic.woff"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\CircularStd-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\CircularStd-Medium.woff"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\CircularStd-MediumItalic.woff",
+      "PackagePath": "staticwebassets\\fonts\\CircularStd-MediumItalic.woff"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\MaterialIcons-Regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\MaterialIcons-Regular.eot"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\MaterialIcons-Regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\MaterialIcons-Regular.svg"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\MaterialIcons-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\MaterialIcons-Regular.ttf"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\MaterialIcons-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\MaterialIcons-Regular.woff2"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\la-brands-400.eot"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\la-brands-400.svg"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\la-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\la-brands-400.woff"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\la-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\la-regular-400.eot"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\la-regular-400.svg"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\la-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\la-regular-400.woff"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\la-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\la-solid-900.eot"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\la-solid-900.svg"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\la-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\la-solid-900.woff"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\la-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\la-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\line-awesome.eot",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome.eot"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\line-awesome.svg",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome.svg"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\line-awesome.ttf",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome.ttf"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\line-awesome.woff",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome.woff"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\fonts\\line-awesome.woff2",
+      "PackagePath": "staticwebassets\\fonts\\line-awesome.woff2"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\amenities\\amenities_process.js",
+      "PackagePath": "staticwebassets\\js\\amenities\\amenities_process.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\amenities\\create_amenities.js",
+      "PackagePath": "staticwebassets\\js\\amenities\\create_amenities.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\amenities\\final_adjustment.js",
+      "PackagePath": "staticwebassets\\js\\amenities\\final_adjustment.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\banks\\banks.js",
+      "PackagePath": "staticwebassets\\js\\banks\\banks.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\banks\\branches.js",
+      "PackagePath": "staticwebassets\\js\\banks\\branches.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\banks\\tags.js",
+      "PackagePath": "staticwebassets\\js\\banks\\tags.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\bonus\\create_bonus.js",
+      "PackagePath": "staticwebassets\\js\\bonus\\create_bonus.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\bonus\\final_adjustment.js",
+      "PackagePath": "staticwebassets\\js\\bonus\\final_adjustment.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\bonus\\process_bonus.js",
+      "PackagePath": "staticwebassets\\js\\bonus\\process_bonus.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\chart.js",
+      "PackagePath": "staticwebassets\\js\\chart.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\common.js",
+      "PackagePath": "staticwebassets\\js\\common.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\dashboard\\index.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\index.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\datatables.min.js",
+      "PackagePath": "staticwebassets\\js\\datatables.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\departments\\index.js",
+      "PackagePath": "staticwebassets\\js\\departments\\index.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\designations\\index.js",
+      "PackagePath": "staticwebassets\\js\\designations\\index.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\dropfiles.js",
+      "PackagePath": "staticwebassets\\js\\dropfiles.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\employees\\junior_staff.js",
+      "PackagePath": "staticwebassets\\js\\employees\\junior_staff.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\employees\\officer.js",
+      "PackagePath": "staticwebassets\\js\\employees\\officer.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\form-validation.js",
+      "PackagePath": "staticwebassets\\js\\form-validation.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\js\\fullcalendar.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\grades\\index.js",
+      "PackagePath": "staticwebassets\\js\\grades\\index.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\html5shiv.min.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\jquery-3.5.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.5.1.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\jquery.fullcalendar.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fullcalendar.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\jquery.maskedinput.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.maskedinput.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\loans\\car_loan.js",
+      "PackagePath": "staticwebassets\\js\\loans\\car_loan.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\loans\\com_loan.js",
+      "PackagePath": "staticwebassets\\js\\loans\\com_loan.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\loans\\flat_loan.js",
+      "PackagePath": "staticwebassets\\js\\loans\\flat_loan.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\loans\\hb_loan.js",
+      "PackagePath": "staticwebassets\\js\\loans\\hb_loan.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\loans\\loan_process.js",
+      "PackagePath": "staticwebassets\\js\\loans\\loan_process.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\loans\\mc_loan.js",
+      "PackagePath": "staticwebassets\\js\\loans\\mc_loan.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\location\\index.js",
+      "PackagePath": "staticwebassets\\js\\location\\index.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\mask.js",
+      "PackagePath": "staticwebassets\\js\\mask.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\multiselect.min.js",
+      "PackagePath": "staticwebassets\\js\\multiselect.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\js\\respond.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\salarysettings\\advance_tax.js",
+      "PackagePath": "staticwebassets\\js\\salarysettings\\advance_tax.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\salarysettings\\basicsalarysettingsjuniorstaff.js",
+      "PackagePath": "staticwebassets\\js\\salarysettings\\basicsalarysettingsjuniorstaff.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\salarysettings\\basicsalarysettingsofficer.js",
+      "PackagePath": "staticwebassets\\js\\salarysettings\\basicsalarysettingsofficer.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\salarysettings\\final_adjustment_junior_staff.js",
+      "PackagePath": "staticwebassets\\js\\salarysettings\\final_adjustment_junior_staff.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\salarysettings\\final_adjustment_officer.js",
+      "PackagePath": "staticwebassets\\js\\salarysettings\\final_adjustment_officer.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\salarysettings\\ml.js",
+      "PackagePath": "staticwebassets\\js\\salarysettings\\ml.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\salarysettings\\msso.js",
+      "PackagePath": "staticwebassets\\js\\salarysettings\\msso.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\salarysettings\\msss.js",
+      "PackagePath": "staticwebassets\\js\\salarysettings\\msss.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\salarysettings\\salary_process.js",
+      "PackagePath": "staticwebassets\\js\\salarysettings\\salary_process.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\salarysettings\\salarypolicysettings.js",
+      "PackagePath": "staticwebassets\\js\\salarysettings\\salarypolicysettings.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\js\\select2.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\task.js",
+      "PackagePath": "staticwebassets\\js\\task.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\js\\toastr.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ar.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ar.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ar.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ar.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_az.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_az.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_az.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_az.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bg.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bg.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bg.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bg.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ca.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ca.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ca.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_cs.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_cs.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_cs.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_cs.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_da.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_da.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_da.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_da.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_de.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_de.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_de.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_de.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_el.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_el.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_el.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_el.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_et.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_et.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_et.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_et.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_eu.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_eu.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_eu.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_eu.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fa.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fa.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fa.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fa.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fi.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fi.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fr.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fr.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ge.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ge.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ge.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ge.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_gl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_gl.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_gl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_gl.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_he.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_he.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_he.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_he.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hr.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hr.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hu.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hu.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hu.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hu.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_id.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_id.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_id.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_id.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_is.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_is.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_is.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_is.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_it.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_it.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_it.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_it.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ja.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ja.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ja.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ja.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ka.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ka.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ka.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ka.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_kk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_kk.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_kk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_kk.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ko.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ko.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ko.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ko.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lt.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lt.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lt.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lt.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lv.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lv.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lv.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_mk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_mk.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_mk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_mk.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_my.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_my.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_my.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_my.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_nl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_nl.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_nl.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_no.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_no.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_no.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_no.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pl.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pl.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ro.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ro.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ro.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ro.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ru.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ru.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ru.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ru.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sd.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sd.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sd.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sd.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_si.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_si.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_si.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_si.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sk.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sk.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sl.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sl.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sv.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sv.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sv.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_th.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_th.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_th.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_th.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tj.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tj.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tj.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tj.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tr.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tr.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_uk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_uk.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_uk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_uk.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ur.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ur.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ur.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ur.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_vi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_vi.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_vi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_vi.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_de.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_de.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_de.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_de.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_fi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_fi.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_fi.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_it.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_it.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_it.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_it.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_nl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_nl.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_nl.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_pt.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_pt.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_pt.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_pt.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery\\dist\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Project\\Layout\\StaticManuLayout\\StaticManuLayout\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.StaticManuLayout.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.StaticManuLayout.props",
+      "PackagePath": "build\\StaticManuLayout.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.StaticManuLayout.props",
+      "PackagePath": "buildMultiTargeting\\StaticManuLayout.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.StaticManuLayout.props",
+      "PackagePath": "buildTransitive\\StaticManuLayout.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
